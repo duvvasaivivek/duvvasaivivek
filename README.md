@@ -1,113 +1,18 @@
-# 👋 Heyyy, I'm Sai Vivek Duvva
+# 💫 About Me:
+🌱 I’m currently learning<br>“Teaching machines to think a little — while I learn to think a lot.”<br>(Where Machine Learning calculates, Deep Learning understands, and Generative AI creates.)<br><br>💬 Ask me about<br>“Why code breaks only when it matters most,<br>how bugs disappear when you explain them out loud,<br>and how patience turns errors into solutions.” 😌💻<br><br>⚡ Fun fact<br>“Half my code thinks it’s perfect,<br>the other half just tries.<br>My keyboard has seen more plot twists<br>than a season finale’s surprise,<br>yet every crash still learns to rise.”
 
-🎓 **B.Tech in Artificial Intelligence & Data Science**  
-🏫 **IIITDM Kurnool** (2024 – 2028)  
 
----
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/saivivek.duvva.9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sai_vivek_duvva) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saivivekduvva) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@saivivekduvva) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Illustrious_Relief59) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@wewakethegamer4447) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saivivekduvva@gmail.com) 
 
-## 🚀 About Me
-I’m an aspiring **Machine Learning and Game Development enthusiast** currently pursuing my B.Tech in **Artificial Intelligence and Data Science**.  
-I enjoy building **ML systems**, experimenting with **data-driven solutions**, and creating **interactive experiences using Unity**.
-
-I believe in learning by doing — turning concepts into projects and ideas into working systems.
-
----
-
-## 💼 Experience
-### 🔹 AI/ML Intern — *Elevate Labs*  
-📅 Oct 2025 – Dec 2025 | 🌐 Remote  
-- Worked on machine learning pipelines and preprocessing workflows  
-- Gained hands-on experience with applied ML systems  
-
-### 🔹 AI Intern — *Infosys Springboard*  
-📅 Nov 2025 – Present | 🌐 Remote  
-- Explored industry-relevant AI concepts and tools  
-- Strengthened foundational understanding of AI applications  
-
-### 🔹 AI/ML Intern — *IBM SkillsBuild*  
-📅 Dec 2025 – Present | 🌐 Remote  
-- Built ML models and practiced data handling techniques  
-- Improved problem-solving and analytical skills  
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=flat&logo=xbox&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=saivivekduvva&theme=default_repocard&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=saivivekduvva&theme=default_repocard&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saivivekduvva&theme=default_repocard&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=saivivekduvva&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🧠 Featured Projects
-
-### 🔐 SafeSwipe — Fraud Transaction Detection System
-🚀 **Machine Learning | Streamlit | XGBoost**
-
-- Built an ML-based fraud detection system using **XGBoost, Isolation Forest, and LOF**
-- Implemented full **data preprocessing and feature engineering pipeline**
-- Developed a **Streamlit app** for real-time fraud prediction
-- Used serialized models, scalers, and feature pipelines for deployment
-
-📌 *This project focuses on real-world financial fraud detection scenarios.*
-
----
-
-### 🎮 Campus Hustle — 2D Unity Game
-🎯 **Unity | C# | Game Development**
-
-- Developed a **2D running game** with smooth movement, jumping, collisions, and obstacles
-- Implemented health systems and dynamic gameplay mechanics
-- Collaborated via **GitHub** during GDG Open Source Hackathon
-- Built using **Unity Engine and C# scripts**
-
-📌 *This project reflects my interest in game mechanics and interactive systems.*
-
----
-
-## 🛠 Technical Skills
-
-### 👨‍💻 Languages
-- Python
-- C
-- C++
-- C#
-- R
-
-### ⚙️ Frameworks & Engines
-- Unity
-- Streamlit
-
-### 📚 Libraries
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- XGBoost
-
-### 🧰 Developer Tools
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
-
----
-
-## 📂 What You’ll Find on My GitHub
-- 🧪 Machine Learning practice notebooks  
-- 📊 Data cleaning & preprocessing projects  
-- 🎮 Unity game prototypes and experiments  
-- 📈 End-to-end ML projects with deployment  
-
----
-
-## 🌱 Currently Learning
-- Advanced Machine Learning techniques  
-- Model deployment & optimization  
-- Game development workflows in Unity  
-- Writing clean, scalable, and readable code  
-
----
-
-## 📫 Let’s Connect
-📧 **Email:** saiviveduvva@gmail.com  
-🔗 **LinkedIn:** https://linkedin.com/in/saiviveduvva  
-🐙 **GitHub:** https://github.com/saiviveduvva  
-
----
-
-⭐ *Always open to learning, collaboration, and internship opportunities.*  
-Thanks for stopping by!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
