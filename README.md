@@ -16,3 +16,6 @@
 [![](https://visitcount.itsvg.in/api?id=saivivekduvva&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&width=500&lines=Hey+%F0%9F%91%8B+I%27m+Vivek;ML+%26+GenAI+Engineer;Building+things+that+actually+work)](https://git.io/typing-svg)
