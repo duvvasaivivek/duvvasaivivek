@@ -121,24 +121,6 @@ My goal is to design scalable AI solutions that solve meaningful real-world prob
 
 ---
 
-## GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=duvvasaivivek&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duvvasaivivek&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=duvvasaivivek&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
 ## Let's Connect
 
 - **Email:** duvvasaivivek@gmail.com
