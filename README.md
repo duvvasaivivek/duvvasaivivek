@@ -1,29 +1,154 @@
-# 💫 About Me:
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=500&color=6366F1&width=500&lines=Hey+%F0%9F%91%8B+I%27m+Sai+Vivek+Duvva;ML+%26+GenAI+Engineer;Building+things+that+actually+work)](https://git.io/typing-svg)
+# Duvva Sai Vivek
 
+### AI & Machine Learning • Generative AI • Full-Stack AI Development
 
-🌱 I’m currently learning<br>“Teaching machines to think a little — while I learn to think a lot.”<br>(Where Machine Learning calculates, Deep Learning understands, and Generative AI creates.)<br><br>💬 Ask me about<br>“Why code breaks only when it matters most,<br>how bugs disappear when you explain them out loud,<br>and how patience turns errors into solutions.” 😌💻<br><br>⚡ Fun fact<br>“Half my code thinks it’s perfect,<br>the other half just tries.<br>My keyboard has seen more plot twists<br>than a season finale’s surprise,<br>yet every crash still learns to rise.”
+Building AI products that bridge research and real-world applications.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/duvvasaivivek)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:duvvasaivivek@gmail.com)
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/saivivek.duvva.9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sai_vivek_duvva) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saivivekduvva) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@saivivekduvva) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Illustrious_Relief59) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@wewakethegamer4447) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saivivekduvva@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=flat&logo=xbox&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=saivivekduvva&theme=default_repocard&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=saivivekduvva&theme=default_repocard&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saivivekduvva&theme=default_repocard&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=saivivekduvva&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
 
+I'm an **Artificial Intelligence & Data Science** undergraduate at **IIITDM Kurnool**, passionate about building production-ready AI systems using **Machine Learning**, **Generative AI**, **Large Language Models**, and **Full-Stack Development**.
 
+My goal is to design scalable AI solutions that solve meaningful real-world problems while continuously learning emerging technologies.
 
+---
 
-  
-  
+## Snapshot
 
+| | |
+|:----------------------------|:----------------:|
+| 🎓 Education | B.Tech AI & DS |
+| 💼 Internships | **3** |
+| 🚀 AI Projects | **4** |
+| 🏆 Hackathons | **7+** |
+| 🥇 Best Finish | **Top 6 / 240+ Teams** |
+| 📜 Certifications | **2** |
+
+---
+
+## Journey
+
+```text
+2024
+│
+├── Started B.Tech @ IIITDM Kurnool
+├── Python  • Fundamentals Of A.I
+│
+2025
+│
+├── AI Intern — Infosys Springboard
+├── AI/ML Intern — IBM SkillsBuild
+├── Built ML & Generative AI Projects
+│
+2026
+│
+├── Developed Scholarium
+├── Top 6 — Agentica 2.0 (240+ Teams)
+└── Exploring Agentic AI
+```
+
+---
+
+## Technical Skills
+
+**Languages**
+
+`Python` `C++` `C` `C#`
+
+**AI & Machine Learning**
+
+`Scikit-Learn` `NumPy` `Pandas` `Matplotlib` `Seaborn` `NLTK`
+
+**Generative AI**
+
+`LLMs` `RAG` `Prompt Engineering` `Gemini` `Claude`
+
+**Frameworks**
+
+`React` `Django REST Framework` `Streamlit` `Unity`
+
+**Databases**
+
+`PostgreSQL` `MongoDB`
+
+**Developer Tools**
+
+`Git` `GitHub` `VS Code`
+
+---
+
+## Featured Work
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **Scholarium** | AI-powered adaptive learning platform | React, Django, PostgreSQL, MongoDB, Gemini |
+| **Lecture Lens** | AI lecture-to-notes generation system | Python, NLP, Speech-to-Text |
+| **Research Paper Review System** | Automated paper summarization and insight extraction | LLMs, NLP |
+| **MeghDoot** | Multi-agent climate intelligence platform | Agentic AI |
+
+---
+
+## Experience
+
+### Infosys Springboard — AI Intern
+
+- Developed an AI-powered Research Paper Review & Summarization System.
+- Automated document analysis using Generative AI.
+
+### IBM SkillsBuild — AI/ML Intern
+
+- Built an AI-powered Lecture Notes Generator.
+- Integrated Speech Recognition, NLP, and Generative AI.
+
+---
+
+## Currently Exploring
+
+- Agentic AI
+- LLM Engineering
+- AI Infrastructure
+- MLOps
+- Deep Learning
+- Distributed AI Systems
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=duvvasaivivek&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duvvasaivivek&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=duvvasaivivek&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+## Let's Connect
+
+- **Email:** duvvasaivivek@gmail.com
+- **LinkedIn:** linkedin.com/in/duvvasaivivek
+- **GitHub:** github.com/duvvasaivivek
+
+---
+
+<div align="center">
+
+*"Learning relentlessly. Building intelligently. Shipping consistently."*
+
+</div>
