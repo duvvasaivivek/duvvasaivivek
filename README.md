@@ -8,10 +8,10 @@ Building AI products that bridge research and real-world applications.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/duvvasaivivek)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/duvva_sai_vivek/)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1f0zTqQP_Jr5Wi-G29EGAl-3efZtILe9W/view?usp=drive_link)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:duvvasaivivek@gmail.com)
 
 </div>
-
 ---
 
 ## About
