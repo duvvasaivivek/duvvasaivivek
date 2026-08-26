@@ -29,9 +29,9 @@ My goal is to design scalable AI solutions that solve meaningful real-world prob
 | 🎓 Education | B.Tech AI & DS |
 | 💼 Internships | **3** |
 | 🚀 AI Projects | **4** |
-| 🏆 Hackathons | **7+** |
+| 🏆 Hackathons | **8+** |
 | 🥇 Best Finish | **Top 6 / 240+ Teams** |
-| 📜 Certifications | **2** |
+| 📜 Certifications | **3** |
 
 ---
 
